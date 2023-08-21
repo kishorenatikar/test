@@ -1,5 +1,0 @@
-{{#user}}
-Name: Kishore Natikar
-Skills: HTML, CSS, JS, JAVA , Manual Testing , SQL , Selenium Web Driver
-Email: kishorenatikar18git @gmail.com
-{{/user}}
